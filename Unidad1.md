@@ -1,4 +1,4 @@
-[🡐 Atrás](index.md)
+[🡐 Atrás](Inicio.md)
 
 
 <div align="center">
@@ -12,10 +12,25 @@
 
 
 ### Aprendizaje con el docente
-> En esta sección se presentan los temas principales trabajados en la Unidad 1:  
-> algoritmos, pseudocódigo, diagramas de flujo, programación por bloques y la reflexión final sobre el aprendizaje.
 
-🔗 [Ver contenidos de la Unidad 1](Contenidos.md)
+🔹 ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
+
+Los algoritmos son conjuntos ordenados de pasos que permiten resolver un problema o realizar una tarea específica.
+Cada instrucción debe ser clara y lógica, de modo que el proceso pueda ejecutarse sin confusión.
+Son la base de la programación, ya que permiten transformar ideas en procedimientos que una computadora puede interpretar.
+
+🔹 ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)
+
+
+> El ejemplo 1 permite calcular el cambio que una persona recibe después de realizar una compra. Solicita la cantidad de dinero disponible y el costo del producto, realiza la resta entre ambas cantidades y muestra el valor del cambio que corresponde devolver.
+
+[Ejemplo 1 en pseudocódigo](seis.psc) · [Ejemplo 1 en diagrama de flujo](seis.png) · [Ejemplo 1, prueba de escritorio](tabla1.md)
+
+> El ejemplo 2 calcula el volumen de un prisma rectangular. Pide al usuario que ingrese las medidas de sus tres lados (A, B y C), multiplica esos valores para obtener el volumen y finalmente muestra el resultado en pantalla.
+
+[Ejemplo 2 en pseudocódigo](cinco.psc) · [Ejemplo 2 en diagrama de flujo](cinco.png) · [Ejemplo 2, prueba de escritorio](tabla2.md)
+
+---
 
 ---
 
