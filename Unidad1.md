@@ -11,7 +11,7 @@
 <p align="center">
 
 
-### ACD
+### Aprendizaje con el docente
 > En esta sección se presentan los temas principales trabajados en la Unidad 1:  
 > algoritmos, pseudocódigo, diagramas de flujo, programación por bloques y la reflexión final sobre el aprendizaje.
 
@@ -19,7 +19,7 @@
 
 ---
 
-### APE
+### Aprendizaje práctico experimental
 > Aquí se incluyen las evidencias y actividades desarrolladas durante la unidad:  
 > desde el uso de herramientas de algoritmos hasta la construcción de programas secuenciales en C.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### AA
+### Aprendizaje autónomo
 > Aquí se incluyen las evidencias y actividades desarrolladas durante la unidad:  
 > desde el uso de herramientas de algoritmos hasta la construcción de programas secuenciales en C.
 
