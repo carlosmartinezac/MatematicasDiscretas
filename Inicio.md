@@ -6,15 +6,14 @@
 
 <hr>
 
-<h3>📘 Teoría de la Programación</h2>
+<h3>📘 Matemáticas Discretas</h2>
 <h3>📅 Septiembre 2025 - Febrero 2026</h3>
 <h3>🧩 Ciclo 1</h3>
 
 <hr>
 
 
-<p><b>Docente:</b> LISSETTE GEOCONDA LÓPEZ FAICÁN</p>
-<p><b>Título:</b> Ingeniera en Sistemas</p>
+<p><b>Docente:</b> ING. MARIO ENRIQUE CUEVA HURTADO </p>
 
 <hr>
 
@@ -22,8 +21,7 @@
 
 <hr>
 
-<h1>Portafolio Digital de Aprendizaje – Teoría de la
-Programación</h1>
+<h1>Portafolio Digital</h1>
 
 </div>
 
@@ -34,10 +32,10 @@ Programación</h1>
 
 ---
 
-## ⚙️ Unidad 2: Estructuras y Algoritmos  
+## ⚙️ Unidad 2
 
 ---
 
-## 🧠 Unidad 3: Aplicaciones Prácticas  
+## 🧠 Unidad 3 
 
 ---
