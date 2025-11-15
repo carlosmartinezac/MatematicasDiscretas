@@ -33,8 +33,7 @@ El objetivo es comprender cómo funcionan estas estructuras formales para analiz
 
 🔹APE1: RESOLUCION DE EJERCICIOS
 
-> Aquí se incluyen las evidencias y actividades desarrolladas durante la unidad:  
-> desde el uso de herramientas de algoritmos hasta la construcción de programas secuenciales en C.
+Esta actividad trata sobre lógica proposicional, abordando conceptos básicos como proposiciones, conectivos lógicos y tablas de verdad. Se incluyen ejercicios para identificar proposiciones, construir tablas de verdad para conjunciones, disyunciones y negaciones, y evaluar expresiones lógicas compuestas. También se practica la traducción de enunciados del lenguaje natural a expresiones simbólicas y viceversa, así como la determinación de los valores de verdad de proposiciones bajo diferentes condiciones. Es una introducción práctica a los fundamentos del razonamiento lógico formal.
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1J1H91ozJJNldrMgZohe4XxGEZ_MIEizp/view?usp=drive_link)
 
