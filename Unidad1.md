@@ -21,9 +21,8 @@ Esta actividad trata sobre la lógica proposicional, el estudio de las proposici
 
 🔹 ACD2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)
 
-Los algoritmos son conjuntos ordenados de pasos que permiten resolver un problema o realizar una tarea específica.
-Cada instrucción debe ser clara y lógica, de modo que el proceso pueda ejecutarse sin confusión.
-Son la base de la programación, ya que permiten transformar ideas en procedimientos que una computadora puede interpretar.
+Esta actividad trata sobre las leyes de las proposiciones y las reglas de inferencia, que son herramientas fundamentales del razonamiento lógico. Aquí se estudian las leyes que permiten simplificar y transformar proposiciones (como las leyes de De Morgan, distributivas o doble negación) y las reglas que permiten deducir conclusiones válidas a partir de premisas (como Modus Ponens, Modus Tollens o el Silogismo Hipotético).
+El objetivo es comprender cómo funcionan estas estructuras formales para analizar argumentos, demostrar equivalencias y construir razonamientos correctos de manera sistemática.
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1WQfUwzAoZR4IiypsjpeMfJ8KfwOWh8Mz/view?usp=drive_link)
 
