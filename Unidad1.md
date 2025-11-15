@@ -15,6 +15,8 @@
 
 🔹 ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
 
+<p align="left">
+
 Esta actividad trata sobre la lógica proposicional, el estudio de las proposiciones y de cómo se combinan mediante conectores lógicos para formar razonamientos válidos. Aquí se analizan conceptos como proposiciones simples y compuestas, los conectores lógicos (¬, ∧, ∨, →, ↔) y la construcción de tablas de verdad, que permiten evaluar el valor de verdad de cualquier enunciado lógico.
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1Y8hqaJF6r84XBqKNzu-jMht0IlzVuabU/view?usp=sharing)
@@ -43,8 +45,7 @@ Esta actividad trata sobre lógica proposicional, abordando conceptos básicos c
 
 🔹AA1. LECTURA Y EJERCICIOS
 
-> Aquí se incluyen las evidencias y actividades desarrolladas durante la unidad:  
-> desde el uso de herramientas de algoritmos hasta la construcción de programas secuenciales en C.
+Esta actividad trata sobre la aplicación de reglas de inferencia y demostración de argumentos en lógica proposicional. Aquí se trabaja con la simbolización de enunciados en lenguaje natural para construir premisas y, mediante el uso de reglas de inferencia como el Modus Ponens, Modus Tollens y otras, se deduce una conclusión válida a partir de dichas premisas. También se incluye un ejemplo práctico donde se demuestra paso a paso cómo llegar a una conclusión específica ("los ingenieros han cometido un error") aplicando un razonamiento lógico estructurado.
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/11w5lyYnzP8XLnnNJrcUyER7d0HbkIkMO/view?usp=drive_link)
 
