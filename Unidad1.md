@@ -15,9 +15,7 @@
 
 🔹 ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD
 
-Los algoritmos son conjuntos ordenados de pasos que permiten resolver un problema o realizar una tarea específica.
-Cada instrucción debe ser clara y lógica, de modo que el proceso pueda ejecutarse sin confusión.
-Son la base de la programación, ya que permiten transformar ideas en procedimientos que una computadora puede interpretar.
+Esta actividad trata sobre la lógica proposicional, el estudio de las proposiciones y de cómo se combinan mediante conectores lógicos para formar razonamientos válidos. Aquí se analizan conceptos como proposiciones simples y compuestas, los conectores lógicos (¬, ∧, ∨, →, ↔) y la construcción de tablas de verdad, que permiten evaluar el valor de verdad de cualquier enunciado lógico.
 
 📎 [Ver evidencia en Google Drive](https://drive.google.com/file/d/1Y8hqaJF6r84XBqKNzu-jMht0IlzVuabU/view?usp=sharing)
 
